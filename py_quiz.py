@@ -1,3 +1,4 @@
+# Welcome screen
 print('Welcome to AskPython Quiz')
 answer=input('Are you ready to play the Quiz ? (yes/no) :')
 score=0
@@ -29,5 +30,5 @@ if answer.lower()=='yes':
 print('Thankyou for Playing this small quiz game, you attempted',score,"questions correctly!")
 mark=(score/total_questions)*100
 print('Marks obtained:',mark)
+# Exit window
 print('BYE!')
-

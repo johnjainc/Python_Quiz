@@ -1,6 +1,6 @@
 # Welcome screen
 print('Welcome to AskPython Quiz')
-answer=input('Are you ready to play the Quiz ? (yes/no) :')
+answer=input('Are you ready to play the Quiz ? (yes/no) :')#input choice
 score=0
 total_questions=3
  
